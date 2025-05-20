@@ -51,7 +51,7 @@ I believe in building tools that solve real problems — especially in underserv
   <a href="mailto:mrdegbe14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/rdegbe"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/mrgegbe247"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://youtube.com/@STAGA"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/@STAGA247"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
