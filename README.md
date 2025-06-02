@@ -5,7 +5,8 @@
 
 ### 🚀 Current Projects
 
-- 🧩 **DevTrack** – a productivity CLI tool for developers, powered by AI 🤖  
+- 🧩 **DevTrack** – a productivity CLI tool for developers, powered by AI 🤖
+- 📈 **Tradelume** – an AI-powered trading journal for performance analysis and smarter decisions.
 - 🏫 **Skolanova** – smart school management made simple  
 - 📦 **Super App** – local shopping and delivery via web & USSD
 - 🎉 **Life Events** – celebrate & organize life’s big moments
