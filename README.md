@@ -5,9 +5,6 @@
 
 ### 🚀 Current Projects
 
-Here’s your updated list with all your projects and short descriptions, including the three new ones:
-
-
 ---
 
 🧩 `devtrack` – a productivity CLI tool for developers, powered by AI 🤖
@@ -27,12 +24,6 @@ Here’s your updated list with all your projects and short descriptions, includ
 ⚙️ `stackforge` – a DevOps automation toolkit for rapidly bootstrapping tech stacks
 
 💳 Tuakakra – shop now, pay in parts: seamless cross-border layaway shopping for Africa
-
-
----
-
-Let me know if you'd like help designing your GitHub profile README or which 6 projects to prioritize for pinning.
-
 
 ---
 
