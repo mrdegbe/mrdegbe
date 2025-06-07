@@ -5,12 +5,34 @@
 
 ### 🚀 Current Projects
 
-- 🧩 **DevTrack** – a productivity CLI tool for developers, powered by AI 🤖
-- 📈 **Tradelume** – an AI-powered trading journal for performance analysis and smarter decisions.
-- 🏫 **Skolanova** – smart school management made simple  
-- 📦 **Super App** – local shopping and delivery via web & USSD
-- 🎉 **Life Events** – celebrate & organize life’s big moments
-- 🌍 **ShopOva** - A hybrid mini-importation + dropshipping platform
+Here’s your updated list with all your projects and short descriptions, including the three new ones:
+
+
+---
+
+🧩 `devtrack` – a productivity CLI tool for developers, powered by AI 🤖
+
+📈 Tradelume – an AI-powered trading journal for performance analysis and smarter decisions.
+
+🏫 Skolanova – smart school management made simple
+
+📦 Super App – local shopping and delivery via web & USSD
+
+🎉 Life Events – celebrate & organize life’s big moments
+
+🌍 ShopOva – a hybrid mini-importation + dropshipping platform
+
+✨ `cbtg` – Codebase Tour Guide: instantly understand and explore unfamiliar codebases
+
+⚙️ `stackforge` – a DevOps automation toolkit for rapidly bootstrapping tech stacks
+
+💳 Tuakakra – shop now, pay in parts: seamless cross-border layaway shopping for Africa
+
+
+---
+
+Let me know if you'd like help designing your GitHub profile README or which 6 projects to prioritize for pinning.
+
 
 ---
 
